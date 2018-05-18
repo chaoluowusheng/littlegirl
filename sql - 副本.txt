@@ -1,0 +1,8 @@
+DELETE
+FROM
+	i_zdz_financial_insure_policy
+WHERE
+	FINANCIAL_ID = '5'
+AND 	INSURE_ITEM IN ('5', 'A5')
+
+ Hello World !!
