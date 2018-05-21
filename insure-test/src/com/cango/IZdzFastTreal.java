@@ -13,4 +13,6 @@ public class IZdzFastTreal {
 	private String createUser;
 	private String lastUpdateTime;
 	private String updateUser;
+
+
 }
